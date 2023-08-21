@@ -9,8 +9,8 @@
 <p dir="rtl">
  <strong><a href="https://docs.google.com/document/d/1stcvqGYWDplD6eUdKk-LS_OkbApIlOyDXrQJ3rbIBoc/edit">الجزء الاول</a></strong></p>
 
-
-
+1. قم بعمل Fork
+2. افتح الـrepo في github desktop
 1.  انشئ ملف بصيغة .html
 2.  قم بتهيئة الصفحة `استخدم html:5`
 2. غير عنوان الصفحة الى "الصفحة الاول" بإستخدام وسم &lt;title>
